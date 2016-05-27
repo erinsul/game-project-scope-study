@@ -25,8 +25,9 @@ Submit detailed answers to these in this file via a pull request.
       As a user, I want to be able to play a game of tic tac toe so that I can have fun.
       As a user, I want to be able to be able to see my previous games played and my
       win-lose record so that I can remember all my victories.
-
 -   How you plan to keep your code moodular.
 -   What creative spin will you add to your project.
 -   How you will use version control to backup / track your project.
+      I will commit significant changes to the project every time they're made. I will probably make a checklist of what I consider major milestones (mostly that will consist of complete and working functions), and will commit each time I finish one of those.
 -   Do you plan to attempt any of the bonuses.
+      If and ONLY IF I have time, I am interested in trying the bonus to allow two different users to play on separate devices.
