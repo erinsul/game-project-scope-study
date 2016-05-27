@@ -14,10 +14,18 @@ please do the following and be prepared to share and discuss on Monday morning.
 Submit detailed answers to these in this file via a pull request.
 
 -   A wireframe of what your game project will look like.
+      Hi
 -   The data structure you plan to use.
+      Hi
   - How you will take the markup of the game board and represent it in JS
 -   How you plan to approach this project.
 -   4-8 user stories for your game project.
+      As a user, I want to create an account to play and keep track of my scores.
+      As a user, I want to be able to log into my account to access my information.
+      As a user, I want to be able to play a game of tic tac toe so that I can have fun.
+      As a user, I want to be able to be able to see my previous games played and my
+      win-lose record so that I can remember all my victories.
+
 -   How you plan to keep your code moodular.
 -   What creative spin will you add to your project.
 -   How you will use version control to backup / track your project.
